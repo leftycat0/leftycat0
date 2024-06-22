@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leftycat0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 📫 How to reach me : discord
+- 👋 Hi, I’m Mew
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML
+- 📫 lefty_cat on Discord
